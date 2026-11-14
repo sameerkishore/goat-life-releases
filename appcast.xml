@@ -4,18 +4,21 @@
     <title>Goat Life</title>
     <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
     <item>
-      <title>Goat Life 0.1.1</title>
-      <pubDate>Sat, 14 Nov 2026 11:12:40 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>Goat Life 0.2.0</title>
+      <pubDate>Sat, 14 Nov 2026 13:48:40 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Behind-the-scenes release: Goat Life is now signed with its own stable certificate, so permissions you grant it will stick across future updates.</p>
+      <description><![CDATA[<p>Your goat has a mind of its own now, and it mostly uses it to sit down.</p>
 <ul>
-<li>Updates now come as a DMG</li>
-<li>No changes to the goat itself (yet)</li>
+<li><b>A mind of its own.</b> It decides what to do from how it feels and the time of day: grazing, sitting, watching you type, napping in the afternoon and sleeping through the night. Much less pacing.</li>
+<li><b>A meadow on your Dock.</b> It walks along the top of the Dock instead of over your icons, and grazes on a strip of grass at the far end. The patches it nibbles grow back.</li>
+<li><b>Pet it.</b> Stroke it with the pointer and it closes its eyes and blushes. A happy goat bounces, and now and then gets the zoomies.</li>
+<li><b>Look after it as much as you like.</b> A new Care setting: Self-sufficient (the default, gets its own water), Likes some attention, or Needs you, with Give Food and Give Water in the menu.</li>
+<li><b>Bedtime.</b> Control+G sends it to sleep behind your windows. Press it again and it wakes up with a stretch.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.1.1/GoatLife-0.1.1.dmg"
-                 type="application/octet-stream" sparkle:edSignature="HTsJxaBwNpTW/plZz9lfHCnIkFESdSpis2sqdA2acT1pLVR/AbTbQqTdEuCn3kf5ruSZjeIxinNXSk2aCnq/AA==" length="1184751" />
+      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.2.0/GoatLife-0.2.0.dmg"
+                 type="application/octet-stream" sparkle:edSignature="7tyXpKN1hUVUVtxEAgJQZC7AwoJ6obOTA5plrACsa/t7CwCIg+d6eswpuWpbyn4b9UUr3AcM0jsu2L5UNGoIBg==" length="1355361" />
     </item>
   </channel>
 </rss>
