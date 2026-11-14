@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Goat Life Updates</title>
-    <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
-    <description>Update feed for Goat Life.</description>
-    <language>en</language>
-    <!-- Entries are added here automatically by the release workflow in the
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Goat Life Updates</title>
+        <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
+        <description>Update feed for Goat Life.</description>
+        <language>en</language>
+        <!-- Entries are added here automatically by the release workflow in the
          private goat-life repo, newest first, via Sparkle's generate_appcast
          tool. Each <item> points at a .zip attached to a GitHub Release in
          this repo. -->
-  </channel>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 14 Nov 2026 08:12:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/updates/GoatLife-0.1.0.zip" length="1039112" type="application/octet-stream" sparkle:edSignature="zyLuBVBG9nu0EhUz5tR9OM3DygaFFSSEiHnH0DRkPzkDLX95uqSi5jdoI3zhd6BX7WceYzIqARZJfw1NxgdPBg=="/>
+        </item>
+    </channel>
 </rss>
