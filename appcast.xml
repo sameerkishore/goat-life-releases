@@ -4,21 +4,21 @@
     <title>Goat Life</title>
     <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
     <item>
-      <title>Goat Life 0.3.0</title>
-      <pubDate>Sun, 15 Nov 2026 01:11:13 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>Goat Life 0.4.0</title>
+      <pubDate>Mon, 16 Nov 2026 17:48:36 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Your goat can finally have a name. It's been waiting to ask.</p>
+      <description><![CDATA[<p>Your goat has discovered your windows. It has opinions about heights.</p>
 <ul>
-<li><b>What's my name?</b> On first launch your goat asks for one, with a few ideas if you're stuck. Rename it any time and it tries the new one on.</li>
-<li><b>A proper face.</b> A new app icon, and the menu bar now shows your goat's face: happy, content, meh, sad, or fast asleep.</li>
-<li><b>A nicer panel.</b> Click the menu bar goat for a little panel showing what it's up to, with big Food, Drink and Bed buttons. Settings live in there too.</li>
-<li><b>It talks.</b> Speech bubbles with actual words, and buttons when it wants something, so you can answer "Anything to eat?" right there.</li>
-<li><b>Pet it while it sleeps.</b> Rest your pointer on a sleeping goat and stroke it. It stays asleep, and a little heart floats up.</li>
+<li><b>Life on top of your windows.</b> The goat now walks along the tops of your windows, hops from one to the next when they're close enough, and comes back down the sensible way. Move or close a window from under it and it tumbles down and lands on its feet, slightly offended.</li>
+<li><b>A healthy fear of heights.</b> Big jumps make it stop at the edge and peer over. Sometimes it works up the nerve; sometimes it backs away and finds the stairs.</li>
+<li><b>Call it over.</b> Wiggle your pointer side to side anywhere on the screen and the goat comes to find you, hopping across windows if it can.</li>
+<li><b>Always something to eat.</b> When it's hungry and there's nothing nearby, a little patch of grass sprouts for it, even up on a window. No more grazing on nothing.</li>
+<li><b>Lighter and quieter.</b> Goat Life uses a fraction of the memory it did, barely touches the processor while the goat is resting, steps aside for full-screen apps, and no longer switches on Game Mode.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.3.0/GoatLife-0.3.0.dmg"
-                 type="application/octet-stream" sparkle:edSignature="/FvdIG4ICCF7bjfrlmAsxSAAi+l5p3hm5KROROn8al8UOdD9wQb8ZgeDkgxQXYhlil4g7FvPicgdBAQu0AznDg==" length="1839102" />
+      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.4.0/GoatLife-0.4.0.dmg"
+                 type="application/octet-stream" sparkle:edSignature="Mvgy1B6uz7056Z6sUvZGiZ6iEDIva4vY3ac5APnIkzsIv0POkZrlk0hGtSlJrPfhxLKTSSXFJ7Frbbw6j2BJCA==" length="1983584" />
     </item>
   </channel>
 </rss>
