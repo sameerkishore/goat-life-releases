@@ -4,21 +4,30 @@
     <title>Goat Life</title>
     <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
     <item>
-      <title>Goat Life 0.4.0</title>
-      <pubDate>Mon, 16 Nov 2026 17:48:36 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <title>Goat Life 0.5.0</title>
+      <pubDate>Wed, 18 Nov 2026 06:06:21 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Your goat has discovered your windows. It has opinions about heights.</p>
+      <description><![CDATA[<p>Your goat has taken on a few responsibilities. It's still mostly in it for the snacks.</p>
 <ul>
-<li><b>Life on top of your windows.</b> The goat now walks along the tops of your windows, hops from one to the next when they're close enough, and comes back down the sensible way. Move or close a window from under it and it tumbles down and lands on its feet, slightly offended.</li>
-<li><b>A healthy fear of heights.</b> Big jumps make it stop at the edge and peer over. Sometimes it works up the nerve; sometimes it backs away and finds the stairs.</li>
-<li><b>Call it over.</b> Wiggle your pointer side to side anywhere on the screen and the goat comes to find you, hopping across windows if it can.</li>
-<li><b>Always something to eat.</b> When it's hungry and there's nothing nearby, a little patch of grass sprouts for it, even up on a window. No more grazing on nothing.</li>
-<li><b>Lighter and quieter.</b> Goat Life uses a fraction of the memory it did, barely touches the processor while the goat is resting, steps aside for full-screen apps, and no longer switches on Game Mode.</li>
-</ul>]]></description>
-      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.4.0/GoatLife-0.4.0.dmg"
-                 type="application/octet-stream" sparkle:edSignature="Mvgy1B6uz7056Z6sUvZGiZ6iEDIva4vY3ac5APnIkzsIv0POkZrlk0hGtSlJrPfhxLKTSSXFJ7Frbbw6j2BJCA==" length="1983584" />
+<li><b>It brings you meetings.</b> Switch on Meetings in Settings and the goat runs over with a <b>Join</b> button just before a call. A countdown sits next to its face in the menu bar, the panel shows what's up next, and you can choose which calendars count.</li>
+<li><b>It keeps quiet on calls.</b> While your microphone or camera is in use, it holds its bubbles until you hang up.</li>
+<li><b>A focus timer it guards.</b> Start Classic, Long focus or Deep work from the panel. The goat stands guard while you work and naps through your breaks. Work through a break anyway and it digs a hole, pops out of the top of the screen and lies down on your window to make a point.</li>
+<li><b>Timers and alarms.</b> Set a kitchen timer or an alarm from the panel. When it goes off, the goat comes over and chimes and knocks on the glass until you answer.</li>
+<li><b>Reminders as notes in the grass.</b> Today's reminders stand in the meadow as little notes in their list's colours. Tick one off, here or on your phone, and the goat eats it. Clear them all and it throws its hooves in the air. Reminders with a time get brought to you, note in mouth.</li>
+<li><b>Water and stretch nudges, if you want them.</b> Only time at your Mac counts, and the goat has a drink itself before suggesting you do.</li>
+<li><b>Burrowing.</b> Every now and then it tunnels under the Dock and drops out of the top of the screen. There's no reason for this.</li>
+<li><b>Sleepy on low battery.</b> It takes it easy when you're running low. You might too.</li>
+<li><b>Fixes.</b> Buttons in speech bubbles no longer lose their labels, and clicking the menu bar icon now closes the panel as well as opening it.</li>
+</ul>
+<p>Nothing asks for Calendar or Reminders access until you switch those on.</p>
+<p><b>New here?</b> Open the DMG and drag Goat Life onto Applications. It isn't notarized, so the first</p>
+<p>time you open it, click Done on the warning, then go to System Settings → Privacy & Security and click</p>
+<p><b>Open Anyway</b>. After that it updates itself. Needs macOS 14 or later.</p>
+<p>© 2026 Sameer Kishore. Made with ❤️ by Sameer (and Claude).</p>]]></description>
+      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.5.0/GoatLife-0.5.0.dmg"
+                 type="application/octet-stream" sparkle:edSignature="x79j7BiPnk5E+2fraauNgimCfAhxYWdt+ylDDsjuryNBuIhqkZcAasQJn6IbBb7TyacV7fKP1rphh2LfieyPBg==" length="2614921" />
     </item>
   </channel>
 </rss>
