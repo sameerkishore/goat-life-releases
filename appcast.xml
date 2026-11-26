@@ -4,24 +4,18 @@
     <title>Goat Life</title>
     <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
     <item>
-      <title>Goat Life 0.6.0</title>
-      <pubDate>Thu, 26 Nov 2026 11:26:29 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>Goat Life 0.6.1</title>
+      <pubDate>Thu, 26 Nov 2026 12:07:19 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Your goat can talk now. It has opinions, a memory, and the occasional mood.</p>
+      <description><![CDATA[<p>A small one. Your goat has learned the difference between a friend and a to-do app.</p>
 <ul>
-<li><b>Talk to your goat.</b> Pick an AI in Settings → Companion: Apple's model on your Mac (free and private), OpenRouter, or any OpenAI-compatible service with your own key. Then double-click the goat or press ⌃Space, type in the little box above its head, and it answers in its own speech bubble.</li>
-<li><b>A personality of its own.</b> Cheerful, Deadpan, Existential, Nihilist, Wise old goat, Chaotic or Shy, plus a few words of your own. It's a flavour, not a one-track mind: even the Nihilist will ask how lunch was.</li>
-<li><b>It starts conversations.</b> A couple of times a day (more, or never, with Chattiness) it asks if you're free, with a hint of what's on its mind. It waits until you're off your calls and out of a focus session.</li>
-<li><b>It remembers you.</b> It keeps short notes on what you tell it, picks up the odd inside joke, and every chat is saved on your Mac. Read, edit or wipe any of it from Settings. Nothing leaves your Mac except what goes to the AI you picked.</li>
-<li><b>Moods.</b> Peckish, sleepy, or a bit blah for no reason: it shows in how it talks. Wake it from a nap for a chat and it'll be grumpy about it, which seems fair.</li>
-<li><b>Settings has its own window,</b> with tabs, now that there's rather more of it.</li>
-<li><b>Fixes.</b> With two displays, the goat stays on the one with the Dock instead of moving in wherever you happened to be working. Paste works in Settings.</li>
-</ul>
-<p>The first time it uses your AI key after an update, macOS asks for Keychain access. Click Always Allow.</p>]]></description>
-      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.6.0/GoatLife-0.6.0.dmg"
-                 type="application/octet-stream" sparkle:edSignature="iWRT3hRaqJnrkFDf9yEu52E3PO3qKhYzf4KT9m9akZBe/zJHvw4lZIyQmih0T+zRTK1d8HMMozBQY5ERfnk4Dg==" length="3118101" />
+<li><b>A friend, not an assistant.</b> It no longer offers to sort out your tasks or make you more productive just to keep the conversation going. Tell it you're stressed and it'll sympathise, crack a joke or take your mind off things. Ask for help and it'll help.</li>
+<li><b>Pick its personality when you meet it.</b> Setting up a new goat now asks "What am I like?" right after its name, with all seven personalities to choose from and room for a few words of your own.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.6.1/GoatLife-0.6.1.dmg"
+                 type="application/octet-stream" sparkle:edSignature="KgEsZr9wZDUE3mo9jHpfqWNTLa+oGYmBd1rCDbEFhPZ82gcoR03aebuku6HnDPW9V0Hgjd8Fbo/pDLkvaP3wDw==" length="3153593" />
     </item>
   </channel>
 </rss>
