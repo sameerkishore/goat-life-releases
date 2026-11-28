@@ -4,18 +4,20 @@
     <title>Goat Life</title>
     <link>https://raw.githubusercontent.com/sameerkishore/goat-life-releases/main/appcast.xml</link>
     <item>
-      <title>Goat Life 0.6.1</title>
-      <pubDate>Thu, 26 Nov 2026 12:07:19 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <title>Goat Life 0.7.0</title>
+      <pubDate>Sat, 28 Nov 2026 17:32:05 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>A small one. Your goat has learned the difference between a friend and a to-do app.</p>
+      <description><![CDATA[<p>Your goat can now keep track of things for you, and it's learned to play it cool.</p>
 <ul>
-<li><b>A friend, not an assistant.</b> It no longer offers to sort out your tasks or make you more productive just to keep the conversation going. Tell it you're stressed and it'll sympathise, crack a joke or take your mind off things. Ask for help and it'll help.</li>
-<li><b>Pick its personality when you meet it.</b> Setting up a new goat now asks "What am I like?" right after its name, with all seven personalities to choose from and room for a few words of your own.</li>
+<li><b>Ask it to remind you.</b> Tell your goat "remind me to send the invoice at 4" or "check in on me in 20 minutes", and it will. Reminders come as a note; check-ins come as a question, in its own words if you've set up an AI. Everything lives in a plain file, heartbeat.md, that you can edit by hand.</li>
+<li><b>Quiet at night.</b> Settings → Helping Out → Asked in Chat: Any time, Not at night (anything due overnight waits until 8am), or Off.</li>
+<li><b>A calmer hello.</b> Opening the app or waking your Mac used to bring a pile-up: asking for food and water, wanting a chat, a water nudge it had been saving for you. Now it gets on with its day and only mentions what you asked it to remember. It looked after itself while you were gone, which, frankly, is the whole point of a goat.</li>
+<li><b>Open at Login.</b> Settings → General. Off unless you turn it on.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.6.1/GoatLife-0.6.1.dmg"
-                 type="application/octet-stream" sparkle:edSignature="KgEsZr9wZDUE3mo9jHpfqWNTLa+oGYmBd1rCDbEFhPZ82gcoR03aebuku6HnDPW9V0Hgjd8Fbo/pDLkvaP3wDw==" length="3153593" />
+      <enclosure url="https://github.com/sameerkishore/goat-life-releases/releases/download/v0.7.0/GoatLife-0.7.0.dmg"
+                 type="application/octet-stream" sparkle:edSignature="QPf4uVQTXzzHO493NU1Q/n5zahDIfpCJ3GoUutI2jTOwwXrMNmH1oxUCpJ0snlrcVbTpRqW9Un3sQ+moR90YBA==" length="3294808" />
     </item>
   </channel>
 </rss>
